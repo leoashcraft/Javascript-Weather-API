@@ -1,0 +1,19 @@
+body{
+    background-color: darkblue;
+}
+#body {
+    width: 400px;
+    margin: auto;
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+#submit {
+    border: 0px;
+    padding: 5px 15px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+}
